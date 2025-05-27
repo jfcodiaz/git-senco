@@ -1,0 +1,22 @@
+{
+    // Tema de color oscuro personalizado con base azul para VSCode
+    "workbench.colorCustomizations": {
+        "editor.background": "#1a2233",
+        "editor.foreground": "#d6eaff",
+        "editorCursor.foreground": "#4fc3f7",
+        "editor.lineHighlightBackground": "#223355",
+        "editor.selectionBackground": "#294d7a",
+        "editor.selectionHighlightBackground": "#294d7a88",
+        "activityBar.background": "#16203a",
+        "sideBar.background": "#19243a",
+        "statusBar.background": "#1a2233",
+        "statusBar.foreground": "#4fc3f7",
+        "tab.activeBackground": "#223355",
+        "tab.activeForeground": "#d6eaff",
+        "tab.inactiveBackground": "#16203a",
+        "tab.inactiveForeground": "#7da2ce",
+        "titleBar.activeBackground": "#1a2233",
+        "titleBar.activeForeground": "#4fc3f7"
+    },
+    "workbench.colorTheme": "Default Dark+"
+}
